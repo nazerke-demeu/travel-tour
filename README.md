@@ -45,8 +45,3 @@ This project is perfect for those who want to create a basic yet functional trav
 - **Font Awesome**: Provides icons throughout the website, including phone numbers, email addresses, social media links, and more.
 - **Swiper**: A mobile-friendly, responsive slider that showcases client reviews and makes the content dynamic.
 - **PHP**: Some dynamic content (like navigation links) is handled with PHP, especially for the routing between different pages like `about.php`, `package.php`, etc.
-
-## Folder Structure
-
-The project follows a simple structure to keep everything organized:
-/travel-website │ ├── /images # Folder containing all images used in the website (e.g., destination images) ├── /css # Folder containing the style.css file for custom styling ├── /js # Folder containing script.js file for additional interactivity (e.g., Swiper functionality) ├── about.php # About Us page - explains the features of the website ├── package.php # Packages page - lists all available travel packages ├── book.php # Booking page - where users can book their trips ├── index.html # Main homepage file - serves as the entry point to the website ├── README.md # This file - documentation for the project └── LICENSE # License file - details about the project's license
